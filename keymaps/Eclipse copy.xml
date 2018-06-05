@@ -2,6 +2,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
