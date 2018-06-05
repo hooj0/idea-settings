@@ -3,7 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1528162876419">
+      <file name="/Dummy.txt" timestamp="1528164248204">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/test/src/Main.java" timestamp="1528165815668">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1528164285423">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -14,6 +22,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

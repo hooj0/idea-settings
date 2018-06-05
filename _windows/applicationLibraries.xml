@@ -1,0 +1,177 @@
+<application>
+  <component name="libraryTable">
+    <library name="bigdecimal (v1.3.4, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="csv (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="date (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="dbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fcntl (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gdbm (v2.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="io-console (v0.4.6, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="ipaddr (v1.2.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="json (v2.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v3.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scanf (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="webrick (v1.4.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
