@@ -3,7 +3,7 @@
     <property name="created">2018-06-18T17:36:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-06-18T18:19:10</property>
+    <property name="modified">2018-06-18T18:42:30</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -15,7 +15,7 @@
     </option>
     <option name="BASH.CONDITIONAL">
       <value>
-        <option name="FOREGROUND" value="d72c22" />
+        <option name="FOREGROUND" value="d74b46" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -33,7 +33,7 @@
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="6374e8" />
+        <option name="FOREGROUND" value="7683e8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -44,7 +44,7 @@
     </option>
     <option name="BASH.VAR_USE">
       <value>
-        <option name="FOREGROUND" value="c6239c" />
+        <option name="FOREGROUND" value="c65299" />
       </value>
     </option>
   </attributes>
