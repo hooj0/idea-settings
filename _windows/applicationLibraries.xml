@@ -111,6 +111,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.6 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
