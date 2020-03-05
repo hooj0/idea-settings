@@ -26,13 +26,9 @@
       <SOURCES />
     </library>
     <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -75,22 +71,14 @@
       <SOURCES />
     </library>
     <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -98,13 +86,9 @@
       <SOURCES />
     </library>
     <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="psych (v3.0.2, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -116,14 +100,37 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file://D:/Python/Python37/DLLs" />
+        <root url="file://D:/Python/Python37/Lib" />
+        <root url="file://D:/Python/Python37" />
+        <root url="file://D:/Python/Python37/Lib/site-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/bin/Idea/system/python_stubs/-516756811" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+        <root url="file://D:/Python/Python37/DLLs" />
+        <root url="file://D:/Python/Python37/Lib" />
+        <root url="file://D:/Python/Python37" />
+        <root url="file://D:/Python/Python37/Lib/site-packages" />
+        <root url="file://$APPLICATION_HOME_DIR$/bin/Idea/system/python_stubs/-516756811" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -151,13 +158,9 @@
       <SOURCES />
     </library>
     <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="webrick (v1.4.2, ruby-2.5.1-p57) [gem]">
       <CLASSES />
@@ -165,13 +168,9 @@
       <SOURCES />
     </library>
     <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
       <CLASSES />
