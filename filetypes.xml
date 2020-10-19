@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="[德] 博多·舍费尔-小狗钱钱" type="PLAIN_TEXT" />
       <mapping pattern="comment" type="PLAIN_TEXT" />
+      <mapping pattern="[美] 悉达多·穆克吉-众病之王" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
